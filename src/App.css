@@ -645,3 +645,14 @@ nav .menu-btn,
                 height:400px;
             }
         }
+    
+#footer {
+    display: flex;
+    background-color: #050505;
+    color: white;
+    justify-items: center;
+    align-items: start;
+    padding-top: 24px;
+    width: 100%;
+    height: 100px;
+}

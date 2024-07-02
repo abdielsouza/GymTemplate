@@ -15,6 +15,9 @@ function App() {
       <Offer/>
       <About/>
       <Contact/>
+      <div className='footer'>
+        <p>Copyrights &copy; Abdiel Souza</p>
+      </div>
     </div>
   );
 }
